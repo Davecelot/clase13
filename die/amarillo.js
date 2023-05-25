@@ -1,1 +1,1 @@
-console.log("Un archivo de color amarillo");
+console.log("Vos también sos un buen señor :)");

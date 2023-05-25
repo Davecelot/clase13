@@ -1,1 +1,1 @@
-console.log("Un archivo de color rojo");
+console.log("31 de Julio");

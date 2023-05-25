@@ -1,1 +1,1 @@
-console.log("Un archivo de color azul");
+console.log("Aguante chihiro, viejo");
