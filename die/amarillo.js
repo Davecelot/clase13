@@ -1,0 +1,1 @@
+console.log("Un archivo de color amarillo");
